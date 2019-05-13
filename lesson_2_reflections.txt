@@ -1,19 +1,17 @@
 What happens when you initialize a repository? Why do you need to do it?
-
 it creates a repository in the same working directory inside a directory called .git and it's hidden by default. initializing a repository doesn't create any commits. and running git status shows the untracked files.
-
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
 The staging area is middle area between working directory and the repository. The files in the staging area are going to be committed in the next commit.
-
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Before committing the changes to the files I'll first add them to the staging area and I can run git diff --staged first to make sure that the files have the changes that make one logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Experimenting with a new feature that I am not sure if it will work yet or adding a different language.
 
 How do the diagrams help you visualize the branch structure?
 
