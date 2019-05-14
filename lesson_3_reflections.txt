@@ -1,7 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    If I want to share my repository public or if there is another developer working with me on the same project. also it's a good idea to save my projects on GitHub rather than my local machine, files on my machine could be lost or corrupted for any reason. 
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
