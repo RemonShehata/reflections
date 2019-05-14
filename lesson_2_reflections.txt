@@ -22,3 +22,4 @@ we get the changes that had been introduced to both branches. and we represent i
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Auto merging is always good and faster when there is no conflicts. But merging has to be done manually when there is a conflict because git can't decide which version to use.
