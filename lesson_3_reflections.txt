@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    One case would be that I am not sure that the new feature or new edit is going to work, so I can work on a seperate branch and when I am perfectly sure that it works I can merge it with the master. so I can keep my master branch working at all times. another case would be when I am making a pull request I don't want to merge the pull request into master without reviewing it first.
